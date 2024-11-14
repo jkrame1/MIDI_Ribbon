@@ -1,0 +1,23 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=MicroRibbon
+# Date=19:42:23
+# CreatedBy=Fritzing 1.0.2b.2023-12-20.CD-1901-0-dbdbe34c
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+J1,";;;;;;;;","THT",906.304,659.346,180,Top,THT
+R2,";;;;;0.5W;;;","THT",392.103,415.869,-90,Top,THT
+Ribbon,";;;;;;;;","THT",2029.15,717.67,0,Top,THT
+J2,";;;;;;;;","THT",1605.25,661.345,180,Top,THT
+C1,";100nF;;35V;;;;;","200 mil [THT, multilayer]",1910.06,836.416,90,Top,THT
+R1,"220k;;;;;0.25W;;;","THT",1801.87,832.562,90,Top,THT
+U1,";;;;;;;;","audio-jack",415.25,1135.55,90,Top,SMT
